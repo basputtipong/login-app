@@ -2,4 +2,4 @@
 #### Author
 * Puttipong Thammachart
 #### Description
-* Create login and welcom message to greet user.
+* Create login and welcome message to greet user.
