@@ -1,4 +1,3 @@
-### Answer for Question Number 3 (Coraline Company)
 #### Author
 * Puttipong Thammachart
 #### Description
